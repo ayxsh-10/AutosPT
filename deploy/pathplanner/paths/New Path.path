@@ -8,8 +8,8 @@
       },
       "prevControl": null,
       "nextControl": {
-        "x": 7.979678195712274,
-        "y": 6.619800045723499
+        "x": 8.579307432432426,
+        "y": 6.416385135135134
       },
       "isLocked": false,
       "linkedName": "S2"
@@ -20,28 +20,12 @@
         "y": 5.17671875
       },
       "prevControl": {
-        "x": 5.938520380682031,
-        "y": 5.218963792965056
-      },
-      "nextControl": {
-        "x": 4.56734867396662,
-        "y": 5.101713822029322
-      },
-      "isLocked": false,
-      "linkedName": "R2"
-    },
-    {
-      "anchor": {
-        "x": 1.7688344594643999,
-        "y": 7.1970439189238595
-      },
-      "prevControl": {
-        "x": 1.597592265910755,
-        "y": 7.3791870251533735
+        "x": 4.457301136363637,
+        "y": 5.1268607954545455
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "C1"
+      "linkedName": "R2"
     }
   ],
   "rotationTargets": [],
@@ -58,10 +42,10 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 129.8055710922652
+    "rotation": 60.124007308310546
   },
   "reversed": false,
-  "folder": "AutosPT-Paths",
+  "folder": null,
   "idealStartingState": {
     "velocity": 0,
     "rotation": 0.0
