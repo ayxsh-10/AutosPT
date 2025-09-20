@@ -7,19 +7,31 @@
         {
           "type": "path",
           "data": {
-            "pathName": "S2C1"
+            "pathName": "S2R12"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C1C4"
+            "pathName": "R12C1"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "C4S3"
+            "pathName": "C1R11"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "R11C2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "C2R10"
           }
         }
       ]

@@ -3,41 +3,25 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 7.579307432432433,
-        "y": 6.416385135135134
+        "x": 3.932939189189189,
+        "y": 5.329391891891891
       },
       "prevControl": null,
       "nextControl": {
-        "x": 7.979678195712274,
-        "y": 6.619800045723499
+        "x": 4.4570698128339465,
+        "y": 4.873013429689944
       },
       "isLocked": false,
-      "linkedName": "S2"
+      "linkedName": "R12"
     },
     {
       "anchor": {
-        "x": 5.444488636363636,
-        "y": 5.17671875
+        "x": 1.7391891891891893,
+        "y": 7.3353885135135135
       },
       "prevControl": {
-        "x": 5.938520380682031,
-        "y": 5.218963792965056
-      },
-      "nextControl": {
-        "x": 4.56734867396662,
-        "y": 5.101713822029322
-      },
-      "isLocked": false,
-      "linkedName": "R2"
-    },
-    {
-      "anchor": {
-        "x": 1.7688344594643999,
-        "y": 7.1970439189238595
-      },
-      "prevControl": {
-        "x": 1.597592265910755,
-        "y": 7.3791870251533735
+        "x": 1.5226563751210846,
+        "y": 7.526931750570622
       },
       "nextControl": null,
       "isLocked": false,
@@ -58,13 +42,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 129.8055710922652
+    "rotation": 124.90249561592475
   },
   "reversed": false,
   "folder": "AutosPT-Paths",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 0.0
+    "rotation": 122.0573757342054
   },
   "useDefaultConstraints": true
 }
